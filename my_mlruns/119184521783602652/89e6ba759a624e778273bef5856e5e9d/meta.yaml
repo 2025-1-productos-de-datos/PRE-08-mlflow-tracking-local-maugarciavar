@@ -1,0 +1,15 @@
+artifact_uri: file:D:\Producto de datos\PRE-08-mlflow-tracking-local-maugarciavar\my_mlruns/119184521783602652/89e6ba759a624e778273bef5856e5e9d/artifacts
+end_time: 1748100696794
+entry_point_name: ''
+experiment_id: '119184521783602652'
+lifecycle_stage: active
+run_id: 89e6ba759a624e778273bef5856e5e9d
+run_name: elasticnet_05e1c081
+run_uuid: 89e6ba759a624e778273bef5856e5e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100694962
+status: 3
+tags: []
+user_id: Admin

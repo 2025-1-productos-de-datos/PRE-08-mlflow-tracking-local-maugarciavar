@@ -1,0 +1,6 @@
+artifact_location: file:D:\Producto de datos\PRE-08-mlflow-tracking-local-maugarciavar\my_mlruns/119184521783602652
+creation_time: 1748100564456
+experiment_id: '119184521783602652'
+last_update_time: 1748100564456
+lifecycle_stage: active
+name: wine_quality_experiment

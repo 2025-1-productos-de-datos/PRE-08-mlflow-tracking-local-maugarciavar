@@ -1,0 +1,15 @@
+artifact_uri: file:D:\Producto de datos\PRE-08-mlflow-tracking-local-maugarciavar\my_mlruns/119184521783602652/13783b4e520c430f9dc525db18ebf0d2/artifacts
+end_time: 1748100564913
+entry_point_name: ''
+experiment_id: '119184521783602652'
+lifecycle_stage: active
+run_id: 13783b4e520c430f9dc525db18ebf0d2
+run_name: knn_c4073a90
+run_uuid: 13783b4e520c430f9dc525db18ebf0d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100564726
+status: 3
+tags: []
+user_id: Admin
